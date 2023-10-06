@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&family=Keania+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&family=Keania+One&family=Source+Code+Pro&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.s{
+font-family: 'Courier New', Courier, monospace;
+}
+.bb{
+    height: 100vh;flex-direction: column;
+    display: flex;
+    /* background-color: rgba(0, 0, 0, 0), 0, 0) !important; */
+}
